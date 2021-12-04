@@ -33,7 +33,7 @@ old_contents = []
 minor_build = 0
 
 # Path to folder with your server files, e.g: E:/samp-server.
-path = "E:\gpp-samp"
+path = ""
 
 build = open(f'{path}/gamemodes/src/build/version.inc', 'r')
 count = 0;
